@@ -2,4 +2,4 @@
 
 ## Finger/Handprint scanner using CSS and JavaScript
 
-Demo is right [here](https://mrvandaime.github.io/handprint/)
+Demo is right [here](https://mrvandaime.github.io/handprint/).
