@@ -88,7 +88,7 @@ body {
 
 .scan h3 {
 	text-transform: uppercase;
-	font-size: 2em;
+	font-size: 1.7em;
 	letter-spacing: 2px;
 	margin-top: 20px;
 	color: var(--cor-principal);
