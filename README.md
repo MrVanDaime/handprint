@@ -1,5 +1,5 @@
 # Handprint Scanner
 
-## Only used pure CSS and JavaScript
+## Finger/Handprint scanner using CSS and JavaScript
 
 Demo is right [here](https://mrvandaime.github.io/handprint/)
