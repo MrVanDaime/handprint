@@ -88,11 +88,17 @@ body {
 
 .scan h3 {
 	text-transform: uppercase;
-	font-size: 1.7em;
+	font-size: 2em;
 	letter-spacing: 2px;
 	margin-top: 20px;
 	color: var(--cor-principal);
 	filter: drop-shadow( 0 0 20px var(--cor-principal) ) drop-shadow( 0 0 60px var(--cor-principal) );
+}
+
+@media screen and ( max-width: 576px ) {
+	.scan h3 {
+		font-size: 1.5em;
+	}
 }
 
 @keyframes animate_opacity {
